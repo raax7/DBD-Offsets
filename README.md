@@ -4,7 +4,7 @@
 # Offsets
 - GObjects: 0xDC96550
 - GWorld: 0xDE56F10
-- GNames: 0x5591020
+- GNames: 0xDC3BEC0
 
 # Functions
 - GetBoneMatrix: 0x8078F80
