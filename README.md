@@ -1,9 +1,9 @@
 # Offsets from: 15/12/2023
-
 ## Updated: NO
+
 <br>
-Notes:
-All sigs are to references. For example, the calling of a function.
+
+Notes: All sigs are to references. For example, the calling of a specific function.
 
 # Global Offsets
 - GObjects: 0xDC96550
