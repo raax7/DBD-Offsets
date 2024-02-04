@@ -1,5 +1,5 @@
 # Offsets from: 15/12/2023
-<br>
+
 # Updated: NO
 <br>
 Notes:
