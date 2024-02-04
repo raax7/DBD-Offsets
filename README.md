@@ -1,5 +1,6 @@
-- Offsets from: 15/12/2023
-- Updated: NO
+Offsets from: 15/12/2023
+<br>
+Updated: NO
 
 # Offsets
 - GObjects: 0xDC96550
