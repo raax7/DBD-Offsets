@@ -2,7 +2,7 @@ Offsets from: 15/12/2023
 <br>
 Updated: NO
 
-# Offsets
+# Global Offsets
 - GObjects: 0xDC96550
 - GWorld: 0xDE56F10
 - GNames: 0xDC3BEC0
