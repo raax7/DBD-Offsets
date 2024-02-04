@@ -7,6 +7,8 @@
 
 <br>
 
+<span style="color:red;">This text is red.</span> <span style="color:blue;">This text is blue.</span>
+
 Notes: All sigs are to references. For example, the calling of a specific function.
 
 # Global Offsets
