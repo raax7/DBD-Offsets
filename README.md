@@ -2,6 +2,9 @@ Offsets from: 15/12/2023
 <br>
 Updated: NO
 
+Notes:
+All sigs are to references. For example, the calling of a function.
+
 # Global Offsets
 - GObjects: 0xDC96550
 - GWorld: 0xDE56F10
