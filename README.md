@@ -1,25 +1,27 @@
 # Offsets from: 15/12/2023
-<h2>
-  Offsets Updated: NO
-  <br>
-  SDK-Dump Updated: YES
-<h2>
 
-<br>
+## Offsets Updated: NO
+SDK-Dump Updated: YES
 
-<span style="color:red;">This text is red.</span> <span style="color:blue;">This text is blue.</span>
+---
 
-Notes: All sigs are to references. For example, the calling of a specific function.
+**Notes:** All sigs are to references. For example, the calling of a specific function.
 
-# Global Offsets
+---
+
+## Global Offsets
 - GObjects: 0xDC96550
 - GWorld: 0xDE56F10
 - GNames: 0xDC3BEC0
 
-# Functions
+---
+
+## Functions
 - GetBoneMatrix: 0x8078F80
 - StaticFindObject: 0x66117C0
 
-# VTables
+---
+
+## VTables
 - ProcessEvent VTable: 0x44
 - PostRender VTable: 0x65
