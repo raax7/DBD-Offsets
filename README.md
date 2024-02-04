@@ -2,7 +2,7 @@
 
 ---
 
-Updated: YES
+**Updated:** YES
 
 **Notes:** All signatures refer to specific functions or calls.
 
