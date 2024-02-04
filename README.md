@@ -1,8 +1,8 @@
 # Offsets from: 15/12/2023
 <h2>
-  OFFSETS UPDATED:   NO
+  Offsets Updated: NO
   <br>
-  SDK-DUMP UPDATED:  YES
+  SDK-Dump Updated: YES
 <h2>
 
 <br>
