@@ -1,5 +1,6 @@
 # Offsets from: 15/12/2023
-## Updated: NO
+## OFFSETS UPDATED: NO
+SDK-DUMP UPDATED: YES
 
 <br>
 
